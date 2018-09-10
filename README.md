@@ -8,3 +8,4 @@ Drawing the picture using ↑ emoji
 `$ python main.py IMG-PASS`
 
 ![hoge](https://imgur.com/F5axWoK)
+<img src="https://imgur.com/F5axWoK" alt="hoge">
