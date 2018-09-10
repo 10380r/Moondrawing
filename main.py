@@ -6,7 +6,7 @@ from PIL import Image
 
 from utils import load_tsuki_matrix, preprocess, index2tsuki
 
-IMAGE_URL = "./images/honda2.jpg"
+IMAGE_URL = sys.argv[1]
 
 if __name__ == "__main__":
     tsuki_matrixs = load_tsuki_matrix()
