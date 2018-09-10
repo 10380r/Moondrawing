@@ -1,5 +1,4 @@
 # moondrawing
-月で絵を描こう
 
-🌑🌓🌓🌔🌕🌖🌗🌘  
-これらを使って投げた画像を月で描画します
+# 🌑🌓🌓🌔🌕🌖🌗🌘  
+Drawing the picture using ↑ emoji 
